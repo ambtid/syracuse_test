@@ -1,0 +1,3 @@
+﻿  syracuse.cpp
+C:\Users\amirdado\source\repos\syracuse\syracuse\syracuse.cpp(19,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  syracuse.vcxproj -> C:\Users\amirdado\source\repos\syracuse\x64\Debug\syracuse.exe

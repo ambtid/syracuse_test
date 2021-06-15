@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\amirdado\source\repos\syracuse\syracuse\</FILEPATH>
+      <FILENAME>motion_manager.h</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'motion_manager::state_moves' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>motion_manager::{ctor}</FUNCTION>
+    <DECORATED>??0motion_manager@@QEAA@PEAVdata_maneger@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>motion_manager::state_moves</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
